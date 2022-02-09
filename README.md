@@ -1,6 +1,6 @@
 
 
-# SpaceBulletTime - Roguelike|Procedural generation
+# Come out Fighting - Turn based War game
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -9,28 +9,19 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 
-<img src="sc_1.png" alt="exemplo imagem">
+<img src="sc_1_cameoutfighting.jpg" alt="Header Image">
 
-> Space Bullet is a space roguelike shooter, in this game the bullets and the enemies only move if the player moves. The map is randomly generated so you will alway play a fresh experience.
-### Adjustments and improvementss
-
-I am still developing this game, i can only work on it in my free time, so it's very slow paced
-
-- [x] Create Player movement and animations.
-- [x] Bullet time with bullets and particles when the player isn't moving.
-- [x] Random map based in a seed.
-- [ ] Enemies artificial intelligence, movement
-- [ ] Random indoors and Enemies in the map.
+> Come out Fighting is a turn based game made in 8 bits to infinity's jam, it was made in Unity 3D
 
 ## 💻 Requirements
 
 Before starting, make sure you've met the following requirements:
 * Unity 2020,1,6f1
-* This game uses URP for 2D, it's not compatible with HTML5
+* This game uses Post processing, it may not run in HTML5 and other platforms.
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contributing to Come out Fighting
 
-To contribute to <SpaceBulletTime>, follow these steps:
+To contribute to Come out Fighting, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
@@ -48,4 +39,4 @@ Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to c
 
 This project is under license. See the [LICENSE](CC-BY-4.0.md) file for more details.
 
-[⬆Back to the top](#SpaceBulletTime)<br>
+
